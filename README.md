@@ -1,15 +1,15 @@
 [![MasterHead](https://camo.githubusercontent.com/5bbc91d8bdb210e75aa75ec06079c82e9ba05c78707a9e36d3671fe014ba01e1/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Harman Singh Suri</h1>
-<h3 align="center">A passionate software developer.</h3>
+<h3 align="center">Web development aficionado😉</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warlegend24&label=Profile%20views&color=0e75b6&style=flat" alt="warlegend24" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Full-Stack Web Dev Tools**
+- 🌱 I’m currently learning **Full-Stack Web Dev Tools.**
 
-- 💬 Ask me about **Data Structures , Algorithms , Front-end**
+- 💬 Ask me about **Data Structures , Algorithms , Web dev.**
 
 - 📫 How to reach me **harmansinghsuri24@gmail.com**
 
